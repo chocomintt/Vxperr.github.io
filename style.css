@@ -6,6 +6,7 @@
     color: white;
 }
 
+
 /* Navigation Bar */
 .navbar {
     overflow: hidden;
@@ -25,3 +26,27 @@
     background-color: #ddd;
     color: black;
 }
+
+/* Content */
+* {
+    box-sizing: border-box;
+  }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.main {
+    flex: 100%;
+    background-color: lightgray;
+    padding: 20px;
+    font-family: Helvetica;
+    text-align: center;
+  }
+
+
+  a{
+      text-decoration: none;
+      color: black;
+  }
