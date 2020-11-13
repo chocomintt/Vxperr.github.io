@@ -1,1 +1,3 @@
-A website created by Viperr#1619.
+# Website
+
+Should be obvious enough, just my website
