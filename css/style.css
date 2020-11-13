@@ -31,6 +31,10 @@
     color: black;
 }
 
+.navbar a.right {
+  float: right;
+}
+
 /* Content */
 * {
     box-sizing: border-box;
