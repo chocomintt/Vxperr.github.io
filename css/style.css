@@ -35,6 +35,11 @@
   float: right;
 }
 
+.topnav a.active {
+  background-color: #ff9900;
+  color: black;
+}
+
 /* Content */
 * {
     box-sizing: border-box;
