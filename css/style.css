@@ -35,7 +35,7 @@
   float: right;
 }
 
-.topnav a.active {
+.navbar a.active {
   background-color: #ff9900;
   color: black;
 }
