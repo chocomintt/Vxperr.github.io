@@ -27,8 +27,8 @@
 }
 
 .navbar a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #808080;
+    color: white;
 }
 
 .navbar a.right {
@@ -36,8 +36,8 @@
 }
 
 .navbar a.active {
-  background-color: #808080;
-  color: white;
+  background-color: #ddd;
+  color: black;
 }
 
 /* Content */
